@@ -16,7 +16,7 @@ public class Anagram {
 			System.out.println(string1==string2);
 		}
 		System.out.println(false);
-		System.out.println("nifvndfiv");
+		
 	}
 
 }
